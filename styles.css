@@ -7,8 +7,10 @@ img {
   margin-right: auto; */
 }
 
-.title {
+h1 {
   text-align: center;
   font-family: New Century Schoolbook, TeX Gyre Schola, serif;
   font-weight: 600;
+  font-variant: small-caps;
+  font-size: 40px;
 }
