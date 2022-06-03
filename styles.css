@@ -14,3 +14,8 @@ h1 {
   font-variant: small-caps;
   font-size: 40px;
 }
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
