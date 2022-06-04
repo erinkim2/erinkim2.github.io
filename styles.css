@@ -15,6 +15,10 @@ h1 {
   font-size: 40px;
 }
 
+.card {
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
 .fa-linkedin {
   background: #007bb5;
   color: white;
