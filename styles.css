@@ -28,6 +28,11 @@ h1 {
   color: white;
 }
 
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
